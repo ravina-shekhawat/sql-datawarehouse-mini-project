@@ -3,10 +3,10 @@
 First time i downloaded Data from **Kaggle** and started BULK INSERT,    
 While trying to load a CSV file using BULK INSERT,I got this Error :  
 
-![Error Screenshot](error)
+![Error Screenshot](error.jpg)
 **Error Message Screenshot**  
 #### My Solved Query  
-![Bulk Insert Error Solved Screenshot](solution)  
+![Bulk Insert Error Solved Screenshot](solution.jpg)  
 ``` SQL
 
 BULK INSERT bronze.orders
