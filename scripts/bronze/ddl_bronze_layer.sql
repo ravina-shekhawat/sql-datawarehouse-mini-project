@@ -1,5 +1,7 @@
 
-/* This Script Creates orders table in bronze scheme */
+/* This Script Creates orders table in bronze scheme 
+For this project i am working with one single table
+*/
 USE HOME;
 IF OBJECT_ID('bronze.orders', 'U') IS NOT NULL
 BEGIN
