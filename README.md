@@ -1,3 +1,10 @@
+> **Note:**  
+This README was created with the help of GitHub Copilot AI , because i am learning   
+how to write professional README files. right now i don't know how to write a  
+decent README. I only Know ETL , Medallion Architecture , how to write SQL Queries for insight.  
+I also plan to learn from this README and improve my documentation skills over time.
+
+
 # SQL Data Warehouse Mini Project 🏗️
 
 ## Why Did I Create This Project?
@@ -263,3 +270,8 @@ This is a beginner's project created for learning. If you're learning too, feel 
 ---
 
 *Remember: Being a beginner is not something to hide - it's something to celebrate! Every expert was once a beginner. Happy learning! 🎉*
+
+
+
+
+
